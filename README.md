@@ -1,1 +1,1 @@
-# Estudo de PHP OOP pela alura
+# Projeto da formação, Aprenda a programar em PHP com Orientação a Objetos
